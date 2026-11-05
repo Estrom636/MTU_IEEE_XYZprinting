@@ -5,7 +5,7 @@ Importing the orca_printer file to import the printer set up, filament presets, 
 \
 Use the sd card on the back of the 3d printer to upload files to the printer.
 >Note: the file may not show up because of the name to you may need to edit the name of the file for it to show up.\
->Problem letters may be: V
+>Problem letters: V
 
 Check other documents for other possibly needed information.
 
