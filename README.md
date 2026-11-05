@@ -4,7 +4,7 @@ The slicer configuration files here use OrcaSlicer [www.orcaslicer.com](https://
 Importing the orca_printer file to import the printer set up, filament presets, and a base printer operation configuration.\
 \
 Use the sd card on the back of the 3d printer to upload files to the printer.
->Note: the file may not show up because of the name to you may need to edit the name of the file for it to show up.
+>Note: the file may not show up because of the name to you may need to edit the name of the file for it to show up.\
 >Problem letters may be: V
 
 Check other documents for other possibly needed information.
